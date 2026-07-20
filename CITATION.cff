@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: "Geometry-Confidence-Coupled Real-Time 3D Human Detection from Point Clouds in Fire-Smoke Environments"
+type: software
+version: 0.1.0
+date-released: 2026-07-21
+repository-code: "https://github.com/a91299537-blip/FireSmoke-3D-Human-Detection"
+authors:
+  - family-names: Wang
+    given-names: Peng
+  - family-names: Chen
+    given-names: Yuheng
+  - family-names: Wang
+    given-names: Bin
+  - family-names: Wu
+    given-names: Jiao
+  - family-names: Li
+    given-names: Shuangquan
+  - family-names: Sun
+    given-names: Mengyu
+  - family-names: Li
+    given-names: Xiaoyan
+license: Apache-2.0
