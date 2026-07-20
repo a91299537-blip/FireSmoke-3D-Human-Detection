@@ -1,0 +1,11 @@
+This distribution contains modifications and additions built on OpenPCDet.
+
+OpenPCDet
+Copyright (c) OpenPCDet contributors
+https://github.com/open-mmlab/OpenPCDet
+Licensed under the Apache License, Version 2.0.
+
+The files under openpcdet_overlay are intended to be applied to the upstream
+OpenPCDet commit identified in README.md. Modified upstream files are included
+to support the methods and data pipeline described in the accompanying paper.
+
